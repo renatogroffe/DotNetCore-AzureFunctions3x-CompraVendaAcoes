@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "DBAcoesEndpointUri": "AZURE COSMOS DB ENDPOINT",
+    "DBAcoesEndpointPrimaryKey": "AZURE COSMOS DB PRIMARY KEY",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "RabbitMQConnection": "CONEXÃO RABBITMQ"
+  }
+}
